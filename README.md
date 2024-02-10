@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 Welcome to my page!
 I'm Zarko, a junior Frontend developer from Smolyan, Bulgaria, but I'm willing to relocate to Sofia or Plovdiv to start my career.
 
