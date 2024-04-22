@@ -3,7 +3,7 @@ Welcome to my page!
 I'm Zarko, a junior Frontend developer from Smolyan, Bulgaria, but I'm willing to relocate to Sofia or Plovdiv to start my career.
 As a junior developer, I thoroughly enjoy working with the React framework and am passionate about delving deeper into its intricacies as I continue to study.
 
- 📫 How to reach me: 
+ 📫 How to reach me:  
        zarkoboyukliev@gmail.com or 
        https://www.linkedin.com/in/zarko-boyukliev-996664273/
   
